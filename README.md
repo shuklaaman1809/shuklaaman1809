@@ -157,14 +157,6 @@ This section makes my profile **useful for other developers** 👇
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuklaaman1809&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuklaaman1809&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let’s Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/aman-shukla-5ab2771ba/
 - 🧑‍💻 GitHub: https://github.com/shuklaaman1809
