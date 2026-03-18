@@ -2,7 +2,7 @@
 
 🚀 **Android Developer | Kotlin | MVVM | Scalable Mobile Apps**  
 📍 Pune, India  
-💼 Senior Executive - Software Engineer (Android)
+💼 Senior Executive - Software Engineer (Android) @ Fibe.in
 
 I build **robust, high-performance Android applications** using modern Android architecture and best practices.  
 This profile is not just about me — it’s a **knowledge hub for Android developers**.
